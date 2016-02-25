@@ -4,7 +4,7 @@
   <groupId>nz.ac.waikato.cms.moa</groupId>
   <artifactId>moa-pom</artifactId>
   <packaging>pom</packaging>
-  <version>2014.05-SNAPSHOT</version>
+  <version>2014.11-SNAPSHOT</version>
 
   <name>MOA: meta-package</name>
   <description>
@@ -58,10 +58,10 @@
   </mailingLists>
   
   <scm>
-    <connection>scm:hg:https://code.google.com/p/moa/</connection>
-    <developerConnection>scm:hg:https://code.google.com/p/moa/</developerConnection>
-    <url>http://code.google.com/p/moa</url>
-    <tag>moa-pom-2013.08</tag>
+    <connection>scm:git:https://github.com/albertbifet/moa</connection>
+    <developerConnection>scm:git:https://github.com/albertbifet/meka</developerConnection>
+    <url>https://github.com/albertbifet/moa</url>
+    <tag>moa-pom-2014.11</tag>
   </scm>
 
   <dependencyManagement>
