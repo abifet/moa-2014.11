@@ -59,7 +59,7 @@
   
   <scm>
     <connection>scm:git:https://github.com/albertbifet/moa</connection>
-    <developerConnection>scm:git:https://github.com/albertbifet/meka</developerConnection>
+    <developerConnection>scm:git:https://github.com/albertbifet/moa</developerConnection>
     <url>https://github.com/albertbifet/moa</url>
     <tag>moa-pom-2014.11</tag>
   </scm>
